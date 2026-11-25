@@ -1,0 +1,4 @@
+# The public edition contains only the reviewed project overview.
+*
+!/.gitignore
+!/README.md
